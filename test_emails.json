@@ -1,0 +1,7 @@
+{
+  "legitimate": "From: noreply@github.com\nTo: user@email.com\nSubject: Security Alert\nDate: Thu, 21 Nov 2024 10:30:00 -0800\n\nHello, we detected a new sign-in to your account from San Francisco. If this was you, no action needed.\n\nBest regards,\nGitHub Team",
+  
+  "phishing": "From: urgent@microsoft-security-verify.com\nTo: victim@company.com\nSubject: URGENT: Account will be suspended\n\nIMMEDIATE ACTION REQUIRED!\n\nYour Microsoft Office 365 account will be PERMANENTLY DELETED in 24 hours.\n\nClick here now: http://office365-verify-login.xyz/secure\n\nEnter your username and password immediately.\n\nMicrosoft Security Team",
+  
+  "newsletter": "From: newsletter@techcrunch.com\nTo: subscriber@email.com\nSubject: This Week in Tech\n\nHello, here are this week's top stories:\n1. AI breakthrough\n2. Tech earnings\n\nRead more: https://techcrunch.com\n\nUnsubscribe | TechCrunch Media"
+}
