@@ -68,7 +68,7 @@ email-guard/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Dhruvzzzz/email-guard.git
+git clone https://github.com/klonex00/Email_phishing_detection
 cd email-guard
 ```
 
